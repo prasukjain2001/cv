@@ -1,0 +1,21 @@
+body{
+  /* background-color:#CDF0EA; */
+  background-color:#EEEEEE;
+
+}
+
+hr{
+  border-style:none;
+  width:30%;
+  border-top:dotted ;
+  text-align:left;
+  margin-left: 0;
+  border-color: #393E46;  
+  border-width: 4px;
+}
+
+h1,h3,h2{
+  color: #66BFBF;
+  /* color: #393E46; */
+
+}
